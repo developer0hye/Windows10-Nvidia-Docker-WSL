@@ -13,4 +13,7 @@ wsl --install -d Ubuntu
 
 4. Run Ubuntu
 
-5. 
+5. Install [Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
+6. Install [Nvidia Docker]()
+
