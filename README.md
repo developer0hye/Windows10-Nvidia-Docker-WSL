@@ -4,7 +4,7 @@
 
 2. Download [the latest version of the gpu driver](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 
-3. Update WSL & Install Ubuntu on the **administrator**  Windows Command Prompt
+3. Update WSL and install Ubuntu on the **administrator**  Windows Command Prompt
 
 ```bash
 wsl --update
