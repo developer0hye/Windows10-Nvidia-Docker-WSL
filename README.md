@@ -13,9 +13,11 @@ wsl --install -d Ubuntu
 
 4. Run Ubuntu
 
-5. Install [a CUDA Toolkit for Linux x86](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#cuda-support-for-wsl2) following Option 1
+5. (Optional) Install [a CUDA Toolkit for Linux x86](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#cuda-support-for-wsl2) following Option 1
 
-5. Install [Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+Step 5. allows you to build a cuda source code on WSL Ubuntu.
 
-6. Install [Nvidia Docker]()
+6. Install [Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
+7. Install [Nvidia Docker]()
 
