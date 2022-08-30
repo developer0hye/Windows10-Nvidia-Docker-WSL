@@ -27,7 +27,7 @@ sudo service docker start
 sudo docker run --rm --gpus all nvidia/cuda:11.0.3-base-ubuntu20.04 nvidia-smi
 ```
 
-If you install successfully `nvidia-docker`, you can see the below results after running the above commands.
+If you install successfully `nvidia-docker`, you can see the below results.
 
 ```
 Tue Aug 30 10:47:15 2022
